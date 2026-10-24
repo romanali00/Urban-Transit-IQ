@@ -1,8 +1,7 @@
 # UrbanTransit IQ — Big Data & Data Science Transport Intelligence
 
-TechWiz 7 · Theme: TransitVerse Intelligence · Category: Data Science Intelligence Arena
+Theme: TransitVerse Intelligence · Category: Data Science Intelligence Arena
 
-**Live demo (frontend):** https://urbantransit-iq.vercel.app · **Technical blog:** https://urbantransit-iq.vercel.app/blog.html · **Repository:** https://github.com/darike/UrbanTransitIQ
 
 > The Vercel deployment runs the full stack: the React dashboard plus the FastAPI backend as a
 > Python serverless function at `/api/*` (entry point `api/index.py`). The app database is copied
